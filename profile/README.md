@@ -6,8 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>Citra fork with hacks/improvements which aim to increase performance at the cost of stability</strong>
-  
+  <strong>Citra fork with hacks/improvements which aim to increase performance at the cost of stability.</strong>
   </strong>We are looking for testers and developers, contact us on our channels if you are interested</strong>
 </p>
 
