@@ -1,23 +1,25 @@
 <h1 align="center">
-  <img src="https://github.com/Gamer64ytb/Citra-Enhanced/blob/2fb4b5e4f3f3c7bcb06c1eac97181f845fe72b57/branding/Citra-Enhanced-256.png" alt="Citra-Enhanced" width="188"/>
+  <img src="https://github.com/mandarine3ds/mandarine/blob/master/dist/mandarine.svg" alt="mandarine" width="188"/>
 </p>
 <p align="center" style="font-size:144px;">
-  <strong>Citra-Enhanced</strong>
+  <strong>Mandarine</strong>
 </h1>
 
 <p align="center">
-  <strong>Citra fork with hacks/improvements which aim to increase performance at the cost of stability.</strong>
-  </strong>We are looking for testers and developers, contact us on our channels if you are interested</strong>
+  <strong>This fork is just Citra with tweaks/additions which should result in better performance than the original Citra</strong>
+  </strong>Feel free to download this build and test it, if you run into any bugs please open an issue on GitHub or contact me on the Discord / Telegram</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/Gamer64ytb/Citra-Enhanced/total" alt="GitHub all releases"/>
+  <img src="https://img.shields.io/github/downloads/mandarine3ds/mandarine/total" alt="GitHub all releases"/>
+  <a href="https://github.com/mandarine3ds/mandarine/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?logo=github&logoColor=white" alt="Download - Latest Release"/>
   </a>
   <br>
   <a href="https://discord.gg/8xjMHWEuf6">
     <img src="https://dcbadge.limes.pink/api/server/8xjMHWEuf6" alt="Discord"/>
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/+lTkg6yC6pQAxNzM0">
     <img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="Telegram"/>
   </a>
 </p>
