@@ -1,25 +1,14 @@
-<h1 align="center">
-  <img src="https://github.com/mandarine3ds/mandarine/blob/master/dist/mandarine.svg" alt="mandarine" width="188"/>
-</p>
-<p align="center" style="font-size:144px;">
-  <strong>Mandarine</strong>
-</h1>
-
-<p align="center">
-  <strong>This fork is just Citra with tweaks/additions which should result in better performance than the original Citra</strong>
-  </strong>Feel free to download this build and test it, if you run into any bugs please open an issue on GitHub or contact me on the Discord / Telegram</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/PabloMK7/citra/total" alt="GitHub all releases"/>
-  <a href="https://github.com/mandarine3ds/mandarine/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?logo=github&logoColor=white" alt="Download - Latest Release"/>
-  </a>
-  <br>
-  <a href="https://discord.gg/8xjMHWEuf6">
-    <img src="https://dcbadge.limes.pink/api/server/8xjMHWEuf6" alt="Discord"/>
-  </a>
-  <a href="https://t.me/+lTkg6yC6pQAxNzM0">
-    <img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="Telegram"/>
-  </a>
-</p>
+What? What? What? What?
+I'm so high, man, I can't even feel shit
+I told my boy, "Go roll like ten blunts for me" (what? Roll ten, what?)
+I told my boy, "Go roll like ten blunts for me" (what? What? What? Roll ten)
+I'm tryna get high 'til I can't feel nothin' (whoa, what? What? What?)
+I'm tryna get high 'til I can't feel nothin' (whoa, what? What? What? Let's go)
+I could fall out the sky and I still won't feel nothin' (what? What? What? Slatt, slatt)
+I could fall out the sky and I still won't feel nothin' (whoa, what? What? What?)
+I'm way too high (yeah, what?) Whoa(high) whoa (yeah)
+I'm way too high (yeah, what?) Whoa, whoa(yeah)
+I'm way too high (yeah, what?) Whoa(yeah) whoa(yeah)
+I'm way too high (yeah, yeah) whoa (yeah) whoa (yeah)
+I'm way too high (yeah, whoa)
+Wake up (wake up, wake up, whoa)
