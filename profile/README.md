@@ -6,8 +6,8 @@
 </h1>
 
 <p align="center">
-  <strong>This fork is just Citra with tweaks/additions which should result in better performance than the original Citra</strong>
-  </strong>Feel free to download this build and test it, if you run into any bugs please open an issue on GitHub or contact me on the Discord / Telegram</strong>
+  <strong>A Citra fork with new features and hacks which are experimental and may not be present upstream. </strong>
+  </strong>Feel free to download this build and test it, if you run into any bugs please open an issue on GitHub or contact us on the Discord</strong>
 </p>
 
 <p align="center">
@@ -18,8 +18,5 @@
   <br>
   <a href="https://discord.gg/8xjMHWEuf6">
     <img src="https://dcbadge.limes.pink/api/server/8xjMHWEuf6" alt="Discord"/>
-  </a>
-  <a href="https://t.me/+lTkg6yC6pQAxNzM0">
-    <img src="https://patrolavia.github.io/telegram-badge/chat.png" alt="Telegram"/>
   </a>
 </p>
